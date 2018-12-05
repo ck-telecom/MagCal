@@ -1,16 +1,19 @@
 # MagCal
 open source magetometer calibration
 
-MotionCal
+#MotionCal
 https://github.com/PaulStoffregen/NXPMotionSense
 https://github.com/PaulStoffregen/MotionCal
 
-MagCal-C#
+#MagCal-C#
 https://github.com/hightower70/MagCal
 
-magneto v1.2
+#magneto v1.2
 http://sailboatinstruments.blogspot.com/2011/08/improved-magnetometer-calibration.html
 https://sites.google.com/site/sailboatinstruments1/home
 
-open sensor fusion
+#open sensor fusion
 https://github.com/memsindustrygroup/Open-Source-Sensor-Fusion
+
+#MagCalTool
+https://github.com/paynterf/MagCalTool
