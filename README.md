@@ -17,3 +17,6 @@ https://github.com/memsindustrygroup/Open-Source-Sensor-Fusion
 
 #MagCalTool
 https://github.com/paynterf/MagCalTool
+
+#SimpleAHRS
+https://github.com/adafruit/Adafruit_AHRS/blob/master/Adafruit_Simple_AHRS.cpp
